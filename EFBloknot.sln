@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33712.159
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EFBloknot.UI", "EFBloknot.UI\EFBloknot.UI.csproj", "{43846C13-51C3-4B25-80E8-A76A67DE92CD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EFBloknot.Data", "EFBloknot.Data\EFBloknot.Data.csproj", "{5F37B63F-7B19-43CA-85DD-0C6B187C2621}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{43846C13-51C3-4B25-80E8-A76A67DE92CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43846C13-51C3-4B25-80E8-A76A67DE92CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43846C13-51C3-4B25-80E8-A76A67DE92CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43846C13-51C3-4B25-80E8-A76A67DE92CD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5F37B63F-7B19-43CA-85DD-0C6B187C2621}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F37B63F-7B19-43CA-85DD-0C6B187C2621}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F37B63F-7B19-43CA-85DD-0C6B187C2621}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F37B63F-7B19-43CA-85DD-0C6B187C2621}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A03E382E-098D-4E81-8AF4-425EB2B5F80E}
+	EndGlobalSection
+EndGlobal
